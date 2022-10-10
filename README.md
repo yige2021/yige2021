@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yige2021
-- 👀 I’m interested in C/C++, Qt...
-- 🌱 I’m currently learning *CS:APP*
+- 👀 I’m interested in C/C++, Qt, .NET...
+- 🌱 I’m currently learning *CS:APP*, *MySQL*
 - 💞️ I’m looking to collaborate on some interesting projects
 - 📫 My blog: [yige_2019](https://www.cnblogs.com/yige2019/)
 
